@@ -4,7 +4,7 @@ export class Time extends React.Component {
   constructor() {
     super();
     const today = new Date(),
-      date = today.getHours() + ":" + (today.getMinutes() + 1);
+      date = today.getHours() + ":" + today.getMinutes();
 
     this.state = {
       date: date,
