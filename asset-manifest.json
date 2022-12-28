@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactCalculator/static/css/main.dbeda7a8.css",
+    "main.js": "/ReactCalculator/static/js/main.1dfa1023.js",
+    "static/js/787.0e6dc9a4.chunk.js": "/ReactCalculator/static/js/787.0e6dc9a4.chunk.js",
+    "static/media/wifi.svg": "/ReactCalculator/static/media/wifi.7c50750c18246cc53ce13c8119b0c5ce.svg",
+    "static/media/signal.svg": "/ReactCalculator/static/media/signal.68eb9ba6c3ab67c6bc2138b7d470f656.svg",
+    "static/media/battery.svg": "/ReactCalculator/static/media/battery.de885988d4952a84c31487aca1e325aa.svg",
+    "index.html": "/ReactCalculator/index.html",
+    "static/media/backspace.svg": "/ReactCalculator/static/media/backspace.9d8ea161724abc7a9a4812eb92a41674.svg",
+    "static/media/plusMinus.svg": "/ReactCalculator/static/media/plusMinus.02561eafdc66310f2681828c7fe1f0f7.svg",
+    "static/media/upper.svg": "/ReactCalculator/static/media/upper.4a739f18c35cac1e5bc4955b3fc83b44.svg",
+    "static/media/down.svg": "/ReactCalculator/static/media/down.1fcef3ed0f8577e528f09c326ed41255.svg",
+    "main.dbeda7a8.css.map": "/ReactCalculator/static/css/main.dbeda7a8.css.map",
+    "main.1dfa1023.js.map": "/ReactCalculator/static/js/main.1dfa1023.js.map",
+    "787.0e6dc9a4.chunk.js.map": "/ReactCalculator/static/js/787.0e6dc9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbeda7a8.css",
+    "static/js/main.1dfa1023.js"
+  ]
+}
